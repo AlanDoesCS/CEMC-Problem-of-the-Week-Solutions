@@ -40,7 +40,7 @@ std::cout << "Number of solutions: " << count << std::endl;
 # Mathematical solution, O(1):
 
 ## Intuition:
-A ∈ [A_min, A_max], B ∈ [B_min, B_max], A, B ∈ ℤ, A ≠ 0, B ≠ 0.
+A ∈ [A_min, A_max], B ∈ [B_min, B_max], A, B ∈ ℤ.
 
 let the set α be the set of all values of A that satisfy the equation,
 
