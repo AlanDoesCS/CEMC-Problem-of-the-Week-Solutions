@@ -53,7 +53,7 @@ A² - B² = A+B,
 (A+B)(A-B) = A+B,
 
 
-## Where A+B !≠ 0:
+## Where A+B ≠ 0:
 
 A-B = 1,
 
@@ -68,7 +68,7 @@ B_min+1 ≤ A ≤ B_max+1, AND A_min ≤ A ≤ A_max, therefore:
 max(B_min+1, A_min) ≤ α ≤ min(B_max+1, A_max), A+B ≠ 0
 
 
-## Where A+B == 0:
+## Where A+B = 0:
 B = -A,
 
 A_min ≤ A ≤ A_max and B_min ≤ B ≤ B_max, so:
